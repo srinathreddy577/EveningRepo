@@ -1,2 +1,2 @@
-b.txt file
-hi
+this is b.txt file1
+Hi hello
